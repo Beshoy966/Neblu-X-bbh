@@ -1,4 +1,4 @@
--- Zythera-X v2.3 | Protected + Extras
+-- Zythera-X v2.2 | Protected + Extras
   -- discord.gg/MtMhAk8Y
   local _=nil;(function()
   local __k={90,121,116,104,101,114,97,88,118,50,46,51,70,120,33,124}
